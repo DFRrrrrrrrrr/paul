@@ -1,0 +1,14 @@
+{
+  "name": "deniz",
+  "version": "0.0.1",
+  "description": "",
+  "main": "reg.js",
+  "scripts": {
+    "test": "node reg.js"
+  },
+  "author": "Deniz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
